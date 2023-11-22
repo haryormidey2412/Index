@@ -1,0 +1,9 @@
+p {
+    background: yellow;
+    border-top: 40px solid green;
+    border-right: 40px double peru;
+    border-bottom: 40px outset yellow;
+    border-left: 40px ridge palevioletred;
+    border-radius: 100px 100px 100px 100px;
+    margin: 20px 30px 30px 40px;
+}
